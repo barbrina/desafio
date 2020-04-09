@@ -1,11 +1,3 @@
-'''DESAFIO 89.4:
-
-Faça o mesmo programa porém adicione:
-Um menu com 4 escolhas: sair/ adicionar aluno / remover aluno/ ver notas
-a lista sempre fica em ordem alfabetica
-um menu realmente funcional onde o usuario pode ir e voltar.
-BOA SORTE!!!
-resposta nos comentarios do video da resposta'''
 import os
 from time import sleep
 print('-='*30)
